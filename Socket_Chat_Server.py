@@ -1,8 +1,8 @@
 import socket
 import threading 
 
-# Host_Name=socket.gethostname() #取得主機名稱
-# Host_IP=socket.gethostbyname('www.google.com') #取得主機IP
+# Host_Name = socket.gethostname() #取得主機名稱
+# Host_IP = socket.gethostbyname('www.google.com') #取得主機IP
 
 class ServerNode:
     def __init__(self):
